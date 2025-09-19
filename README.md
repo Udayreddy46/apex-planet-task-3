@@ -1,4 +1,4 @@
-# Black Box Task 1 - Advanced Features - Complete Blog Application
+# Black Box Task 3 - Advanced Features - Complete Blog Application
 
 ## Overview
 This is a complete PHP & MySQL blog web application with advanced features including user authentication, CRUD operations, search functionality, pagination, and responsive UI design.
@@ -148,3 +148,4 @@ CREATE TABLE IF NOT EXISTS posts (
 
 ## License
 This project is part of the Black Box Task 1 internship project.
+
